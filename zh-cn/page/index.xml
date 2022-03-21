@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 演示站点</title><link>https://example.com/zh-cn/page/</link><description>Recent content in Pages on 演示站点</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>This is a test page for i18n support.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 演示站点</title><link>https://example.com/zh-cn/page/</link><description>Recent content in Pages on 演示站点</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</guid><description>&lt;h2 id="关于我">关于我&lt;/h2>
+&lt;p>官展伊，后端开发程序员，目前在Shopee提前实习。&lt;/p>
+&lt;p>对web开发感兴趣，孜孜不倦地阅读源码。&lt;/p>
+&lt;p>技术之余喜欢运动旅行。&lt;/p>
+&lt;p>关注弱势群体。&lt;/p>
+&lt;p>立志让世界变得更美好。&lt;/p>
+&lt;h2 id="关于内容">关于内容&lt;/h2>
+&lt;p>版权声明: 「署名-非商业性使用-禁止演绎 3.0 国际」（CC BY-NC-ND 3.0）&lt;/p>
+&lt;p>所有文章非特别说明皆为原创。技术更迭迅猛，部分内容可能会作修改，为保证信息与源同步，转载时请务必注明文章出处！谢谢合作 :-)&lt;/p>
+&lt;p>文章皆为个人观点，不代表所服务的公司。&lt;/p></description></item></channel></rss>
