@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Zhanyi's Blog
 
 languages:
     en:
@@ -16,7 +16,7 @@ languages:
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: موقع تجريبي
+        title: موقع تجريبيfavicon
         weight: 3
 
 # Change it to your Disqus shortname before using
@@ -42,7 +42,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/wolf.jpg
 
     footer:
         since: 2020
@@ -54,11 +54,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 展伊的技术博客
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/hope.jpg
 
     article:
         math: false

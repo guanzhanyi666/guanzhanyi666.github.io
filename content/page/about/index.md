@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 
+date: '2022-3-21'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-3-21'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,22 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## About me
 
-Hugo makes use of a variety of open source projects including:
+Zhanyi Guan, back-end development programmer, currently working at Shopee as an early intern.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Interested in web development and read source code tirelessly.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I like sports and travel in my spare time.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Concerned about the disadvantaged.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Aspire to make the world a better place.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## About the content
+
+Copyright: "Attribution-NonCommercial-NoDerivs 3.0 International" (CC BY-NC-ND 3.0)
+
+All articles are original unless otherwise noted. Technology is changing rapidly and some content may be modified, so to ensure that information is synchronized with the source, please be sure to include the source of the article when reprinting! Thank you for your cooperation :-)
+
+All articles are personal opinions and do not represent the companies we work for.
