@@ -7,12 +7,12 @@ title: Zhanyi's Blog
 languages:
     en:
         languageName: English
-        title: Example Site
-        weight: 1
+        title: Zhanyi's Blog
+        weight: 2
     zh-cn:
         languageName: 中文
-        title: 演示站点
-        weight: 2
+        title: Zhanyi's Blog
+        weight: 1
     ar:
         languageName: عربي
         languagedirection: rtl
@@ -151,7 +151,7 @@ params:
             - type: search
             - type: archives
               params:
-                  limit: 5
+                  limit: 10
             - type: categories
               params:
                   limit: 10
@@ -197,15 +197,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/guanzhanyi666
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/355275384
           params:
-              icon: brand-twitter
+              icon: bilibili-logo-blue
 
 related:
     includeNewer: true
